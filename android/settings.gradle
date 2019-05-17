@@ -1,0 +1,3 @@
+rootProject.name = 'raconnect_3480'
+
+include ':app'
